@@ -1,4 +1,7 @@
-I. Kết nối
+# a
+...
+## Hoc git
+## vI. Kết nối
     B1. Tạo folder -> cd đến thư mục -> cmd: git init
     (Biến thư mục thành một repository)
 
@@ -7,7 +10,7 @@ I. Kết nối
 
     B3: git remote -v
 
-II. Làm việc
+## II. Làm việc
     B1. git add --all
     (Thêm tất cả file)
 
@@ -26,6 +29,7 @@ II. Làm việc
     * git reset --hard ......(id_commit)
     (Reset toàn bộ code về bước id_commit)
 
-
+...
+# Kết thúc
 
 
